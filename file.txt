@@ -1,1 +1,2 @@
 file preparazione verifica
+seconda riga del file
